@@ -45,8 +45,8 @@ MediCare is an open-source online medicine ordering system built with Python Dja
 6. Visit `http://localhost:8000` to see the application in action
 
 ## Contributors
-- Abdul Rehman
-- Muhammad Ahmad
+- Hassan Ali
+- Yousaf Sarwar
 
 ## License
 This project is licensed under the terms of the MIT license.
