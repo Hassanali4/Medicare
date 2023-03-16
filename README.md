@@ -1,4 +1,4 @@
-# MediCare [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
+# Medicare [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
 ### Stack we used
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -8,10 +8,10 @@
 
 ![meditate](https://user-images.githubusercontent.com/79878896/124366069-65f10000-dc66-11eb-84c0-e548883fbb1c.JPG)
 
-MediCare - An Online Medicine Ordering System Built with Django
+Medicare - An Online Medicine Ordering System Built with Django
 
 ## About
-MediCare is an open-source online medicine ordering system built with Python Django. The system features separate logins for NGO and customers, allowing customers to browse through a list of medicines, place orders, and pay for them online, while NGOs can manage their inventory and process the received orders. 
+Medicare is an open-source online medicine ordering system built with Python Django. The system features separate logins for NGO and customers, allowing customers to browse through a list of medicines, place orders, and pay for them online, while NGOs can manage their inventory and process the received orders. 
 
 ## Features
 - Separate login for NGOs and customers
@@ -24,7 +24,7 @@ MediCare is an open-source online medicine ordering system built with Python Dja
 ## Installation
 1. Clone the repository:
     ```
-    git clone git@github.com:abrehman90/MediCare.git
+    git clone git@github.com:Hassanali4/Medicare.git
     ```
 2. Navigate into the project directory:
     ```
