@@ -49,6 +49,9 @@ Medicare is an open-source online medicine ordering system built with Python Dja
     ```
 6. Visit `http://localhost:8000` to see the application in action
 
+## Acknowledgements
+- This project was developed as a final year project by a group of students at the University of Sargodha, Pakistan.
+
 ## Contributors
 - Hassan Ali
 - Yousaf Sarwar
