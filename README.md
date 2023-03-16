@@ -14,7 +14,12 @@ Medicare - An Online Medicine Ordering System Built with Django
 Medicare is an open-source online medicine ordering system built with Python Django. The system features separate logins for NGO and customers, allowing customers to browse through a list of medicines, place orders, and pay for them online, while NGOs can manage their inventory and process the received orders. 
 
 ## Features
-- Separate login for NGOs and customers
+- Separate Sign up & login for NGOs and customers
+
+![sign](https://user-images.githubusercontent.com/79878896/124366070-67bac380-dc66-11eb-93c4-310e0db01788.JPG)
+
+![signup](https://user-images.githubusercontent.com/79878896/124366073-68ebf080-dc66-11eb-8ecc-0e83231c587b.JPG)
+
 - Customer can browse medicines, add them to cart, and place orders
 - NGOs can manage their inventory, process orders, and track delivery status
 - Payment gateway integration
