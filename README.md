@@ -1,4 +1,4 @@
-# Medicare [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/Hassanali4/Medicare/blob/main/LICENSE)
+# Medicare [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/Medicare/Hassanali4/blob/main/LICENSE)
 ### Stack we used
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
